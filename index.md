@@ -7,7 +7,7 @@
 - [[projects/wherecho]] · 어디초: 초1 하교 후 우리 집 일정
 - [[projects/smart-friends]] · 어디초 연계 키링
 - [[projects/pinky]] · 가족이 함께 키우는 약속 캐릭터 (글로벌)
-- [[projects/k-stock-radar]] · 외국인 대상 한국 주식 정보 (방향 재검토 중)
+- [[projects/k-stock-radar]] · 외국인 대상 한국 주식 정보 (보류)
 
 ## 개념
 - [[concepts/after-school-schedule]] · 어디초 브랜드 축
@@ -23,6 +23,7 @@
 - [[decisions/2026-11-27-timetable-ui-redesign]] · 시간표 입력 UI 1차 시안 반려, 메타 문구 A안 확정
 - [[decisions/2026-11-27-remotion-content]] · 홍보 콘텐츠는 Remotion으로 실제 UI 재현
 - [[decisions/2026-11-27-k-stock-domain]] · k-stock-radar 도메인 폐기
+- [[decisions/2026-11-27-k-stock-hold]] · k-stock-radar 보류, 어디초 우선
 - [[decisions/2026-11-27-brand-axis]] · 브랜드 축 전환: 학교 찾기 → 초1 하교 후 우리 집 일정
 - [[decisions/2026-11-27-bot-collaboration]] · 봇 업무 구분·협업 방식과 공용 wiki 도입
 - [[decisions/2026-11-26-home-timetable-first]] · 홈 첫 화면을 시간표 생성 중심으로

@@ -12,4 +12,5 @@
 - 부품·원가·시제품 범위 (HW 제품)
 
 ## 관련
+- [[projects/pinky]] · 하드웨어 기반 공유, 브랜드·소프트웨어는 분리 ([[decisions/2026-11-27-pinky-direction]])
 - [[projects/wherecho]]
